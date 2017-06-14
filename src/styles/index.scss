@@ -1,0 +1,14 @@
+// '~' denotes npm module
+// @import '~md-colors';
+@import '~normalize.css';
+
+@import 'config/variables';
+@import 'config/utils';
+@import 'config/mixins';
+
+@import 'base/global';
+
+@import 'components/container';
+@import 'components/news';
+@import 'components/loader';
+@import 'components/buttons';
